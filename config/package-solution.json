@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-sharedlib-client-side-solution",
+    "id": "7a7ba146-b400-4f1a-82fe-f57bfefeac04",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "spfx-sharedlib.spapp"
+  }
+}
